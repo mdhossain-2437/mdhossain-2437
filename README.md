@@ -1,10 +1,167 @@
-- 👋 Hi, I’m @mdhossain-2437
+
+<!-- THEME: DARK BLUE & BLACK | USER: mdhossain-2437 -->
+
+<!-- Dynamically displaying visitor's name or username -->
+<script>
+  function getGreeting() {
+    const name = localStorage.getItem('name');  // First name
+    const username = 'mdhossain-2437';          // Default GitHub username
+    
+    if (name) {
+      // If first name is available
+      document.getElementById("greeting").innerText = `Hello ${name}`;
+    } else {
+      // If first name is not available, show the username
+      document.getElementById("greeting").innerText = `Hello ${username}`;
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', getGreeting);
+</script>
+
+<div align="center">
+  <h2 id="greeting">Hello mdhossain-2437</h2>
+</div>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+Coder!+Welcome+to+My+Terminal+%F0%9F%94%8E;MD+DELOWAR+HOSSAIN+Here+%F0%9F%9A%80;Coding+The+Future...;AI+%7C+Web+%7C+Automation+%7C+DevLife"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/>
+</div>
+
+---
+
+## 👤 About Me
+<!-- AI Typing Effect -->
+<div align="center">
+  <p id="ai-typing-prompt"></p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/typewriter-effect@2.18.1/dist/core.js"></script>
+<script>
+  var typewriter = new Typewriter('#ai-typing-prompt', {
+    loop: true,
+    delay: 75,
+  });
+
+  typewriter
+    .typeString('I'm **MD DELOWAR HOSSAIN**')
+    .pauseFor(1000)
+    .deleteAll()
+    .start();
+</script>
+
+> A passionate self-taught developer from **Bangladesh**, dedicated to building modern web applications with futuristic ideas and beautiful UI/UX.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on Programming-Hero
-- 📫 How to reach me: mdhossain2437@gmail.com
-- 😄 Pronouns: DELOWAR HOSSAIN
 - ⚡ Fun fact: I am not a CSE student, I do not come from a CSE background.
+- 🔭 Currently building AI-Powered Web Platforms
+- 💡 Obsessed with new tech, animations, and smart UI
+- 🎓 Constantly learning and experimenting
+- 🎯 Dream: Become one of the top AI + Web developers in the world
+
+---
+
+## 🚀 Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,vite,github,git,vercel,figma,bootstrap,postman,python,linux" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| 🌐 **English Janala** | Learn English in a fun and interactive way | [GitHub](https://github.com/mdhossain-2437/english-janala) |
+| 🖼️ **Auction Gallery** | Online auction platform with stylish interface | [GitHub](https://github.com/mdhossain-2437/auction-gallery) |
+| 🧸 **Kids School** | Colorful and fun educational platform | [GitHub](https://github.com/mdhossain-2437/kids-school) |
+| 🧬 **3D Portfolio Website** | 3D animated personal portfolio | [GitHub](https://github.com/mdhossain-2437/3d-portfolio-website) |
+| 🐾 **Pet Shop** | Online store for pet lovers | [GitHub](https://github.com/mdhossain-2437/pet-shop) |
+| 🎬 **CineVerse** | Movie streaming platform with dark UI | [GitHub](https://github.com/mdhossain-2437/cineverse) |
+| 🌦️ **World's No.1 Weather Website** | AI-powered futuristic weather platform | [GitHub](https://github.com/mdhossain-2437/worlds-no1-weather-website) |
+
+---
+
+## 🎨 Animation & SVG Showcase
+
+<div align="center">
+  <img src="https://lottie.host/95c401df-e259-4209-a9cf-cbcd8c3c7c3e/3CQYP4MI4K.json" width="350"/>
+  <img src="https://lottie.host/6fae53c8-3d68-40bc-aeeb-1e88b105bd12/S5uL72L2pE.json" width="350"/>
+</div>
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdhossain-2437&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdhossain-2437&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhossain-2437&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdhossain-2437&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+<!-- Contribution Badges -->
+<p align="center">
+  <a href="https://github.com/mdhossain-2437"><img src="https://img.shields.io/github/contributors/mdhossain-2437?style=for-the-badge" /></a>
+  <a href="https://github.com/mdhossain-2437"><img src="https://img.shields.io/github/commit-activity/y/mdhossain-2437?style=for-the-badge" /></a>
+</p>
+
+<!-- Visitor Counter API -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdhossain-2437&label=Profile%20Views&color=0e75b6&style=flat&logo=github&logoColor=white" alt="Profile Views"/>
+</p>
+
+## 🛠️ Dynamic Showcase Terminal
+
+```bash
+> Welcome to the Terminal of mdhossain-2437...
+> Compiling creativity... ✅
+> Building futuristic web experiences ⚙️
+> Updating GitHub profile... COMPLETE
+```
+
+---
+
+## 🌌 Let's Connect
+
+<p align="center">
+  <a href="mailto:mdhossain2437@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://facebook.com/mdhossain2437"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://github.com/mdhossain2437"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=08F7FE&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+universe+%F0%9F%8C%8C;Feel+free+to+collab+or+drop+a+message.;Until+next+time%2C+keep+building+the+future!"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D1117&section=footer" />
+</p>
+
+<!-- END -->
 
 <!---
 mdhossain-2437/README.md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
