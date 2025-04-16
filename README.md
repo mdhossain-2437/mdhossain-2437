@@ -1,28 +1,6 @@
 
 <!-- THEME: DARK BLUE & BLACK | USER: mdhossain-2437 -->
 
-<!-- Dynamically displaying visitor's name or username -->
-<script>
-  function getGreeting() {
-    const name = localStorage.getItem('name');  // First name
-    const username = 'mdhossain-2437';          // Default GitHub username
-    
-    if (name) {
-      // If first name is available
-      document.getElementById("greeting").innerText = `Hello ${name}`;
-    } else {
-      // If first name is not available, show the username
-      document.getElementById("greeting").innerText = `Hello ${username}`;
-    }
-  }
-
-  document.addEventListener('DOMContentLoaded', getGreeting);
-</script>
-
-<div align="center">
-  <h2 id="greeting">Hello mdhossain-2437</h2>
-</div>
-
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+Coder!+Welcome+to+My+Terminal+%F0%9F%94%8E;MD+DELOWAR+HOSSAIN+Here+%F0%9F%9A%80;Coding+The+Future...;AI+%7C+Web+%7C+Automation+%7C+DevLife"/>
@@ -41,26 +19,10 @@
 ---
 
 ## 👤 About Me
-<!-- AI Typing Effect -->
-<div align="center">
-  <p id="ai-typing-prompt"></p>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=mdhossain-2437&show_icons=true&theme=tokyonight" />
 
-<script src="https://cdn.jsdelivr.net/npm/typewriter-effect@2.18.1/dist/core.js"></script>
-<script>
-  var typewriter = new Typewriter('#ai-typing-prompt', {
-    loop: true,
-    delay: 75,
-  });
 
-  typewriter
-    .typeString('I'm **MD DELOWAR HOSSAIN**')
-    .pauseFor(1000)
-    .deleteAll()
-    .start();
-</script>
-
-> A passionate self-taught developer from **Bangladesh**, dedicated to building modern web applications with futuristic ideas and beautiful UI/UX.
+> I'm **MD DELOWAR HOSSAIN** a passionate self-taught developer from **Bangladesh**, dedicated to building modern web applications with futuristic ideas and beautiful UI/UX.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Web Development.
 - ⚡ Fun fact: I am not a CSE student, I do not come from a CSE background.
