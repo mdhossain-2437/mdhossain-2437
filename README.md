@@ -18,8 +18,6 @@
 ---
 
 ## 👤 About Me
-<img src="https://github-readme-stats.vercel.app/api?username=mdhossain-2437&show_icons=true&theme=tokyonight" />
-
 
 > I'm **MD DELOWAR HOSSAIN** a passionate self-taught developer from **Bangladesh**, dedicated to building modern web applications with futuristic ideas and beautiful UI/UX.
 - 👀 I’m interested in Programming.
