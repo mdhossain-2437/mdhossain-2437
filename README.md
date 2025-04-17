@@ -50,7 +50,7 @@
 | 🧬 **3D Portfolio Website** | 3D animated personal portfolio | [GitHub](https://github.com/mdhossain-2437/3d-web) |
 | 🐾 **Pet Shop** | Online store for pet lovers | [GitHub](https://github.com/mdhossain-2437/pet-shop) |
 | 🎬 **CineVerse** | Movie streaming platform with dark UI | [GitHub](https://github.com/mdhossain-2437/cineverse) |
-| 🌦️ **World's No.1 Weather Website** | AI-powered futuristic weather platform | [GitHub](https://github.com/mdhossain-2437/worlds-no1-weather-website) |
+| 🌦️ **Weather Website** | AI-powered futuristic weather platform | [GitHub](https://github.com/mdhossain-2437/worlds-no1-weather-website) |
 
 ---
 
