@@ -13,7 +13,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/>
 </div>
 
 ---
@@ -25,7 +24,7 @@
 > I'm **MD DELOWAR HOSSAIN** a passionate self-taught developer from **Bangladesh**, dedicated to building modern web applications with futuristic ideas and beautiful UI/UX.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Web Development.
-- ⚡ Fun fact: I am not a CSE student, I do not come from a CSE background.
+- ⚡ Fun fact: I am not a CSE student, I do not come from CSE background.
 - 🔭 Currently building AI-Powered Web Platforms
 - 💡 Obsessed with new tech, animations, and smart UI
 - 🎓 Constantly learning and experimenting
@@ -36,7 +35,7 @@
 ## 🚀 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,vite,github,git,vercel,figma,bootstrap,postman,python,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,vite,github,git,vercel,figma,bootstrap,c,python,linux," />
 </p>
 
 ---
@@ -48,7 +47,7 @@
 | 🌐 **English Janala** | Learn English in a fun and interactive way | [GitHub](https://github.com/mdhossain-2437/english-janala) |
 | 🖼️ **Auction Gallery** | Online auction platform with stylish interface | [GitHub](https://github.com/mdhossain-2437/auction-gallery) |
 | 🧸 **Kids School** | Colorful and fun educational platform | [GitHub](https://github.com/mdhossain-2437/kids-school) |
-| 🧬 **3D Portfolio Website** | 3D animated personal portfolio | [GitHub](https://github.com/mdhossain-2437/3d-portfolio-website) |
+| 🧬 **3D Portfolio Website** | 3D animated personal portfolio | [GitHub](https://github.com/mdhossain-2437/3d-web) |
 | 🐾 **Pet Shop** | Online store for pet lovers | [GitHub](https://github.com/mdhossain-2437/pet-shop) |
 | 🎬 **CineVerse** | Movie streaming platform with dark UI | [GitHub](https://github.com/mdhossain-2437/cineverse) |
 | 🌦️ **World's No.1 Weather Website** | AI-powered futuristic weather platform | [GitHub](https://github.com/mdhossain-2437/worlds-no1-weather-website) |
@@ -67,11 +66,11 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdhossain-2437&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdhossain-2437&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdhossain-2437&show_icons=true&theme=tokyonight&hide_border=true" width="80%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdhossain-2437&theme=tokyonight&hide_border=true" width="80%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhossain-2437&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhossain-2437&layout=compact&theme=tokyonight&hide_border=true" width="80%" />
 </p>
 
 ---
