@@ -55,9 +55,11 @@
 ## 🎨 Animation & SVG Showcase
 
 <div align="center">
-  <img src="https://lottie.host/95c401df-e259-4209-a9cf-cbcd8c3c7c3e/3CQYP4MI4K.json" width="350"/>
+  <img src="https://lottie.host/embed/0cb06a5d-c200-4846-8b4e-a7c46f8dc79e/uKbQvIqNkT.json
+" width="350"/>
   <img src="https://lottie.host/6fae53c8-3d68-40bc-aeeb-1e88b105bd12/S5uL72L2pE.json" width="350"/>
 </div>
+
 
 ---
 
